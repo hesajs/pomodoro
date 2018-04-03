@@ -14,7 +14,7 @@ while True:
     if(end_time <= start):
         
         #just a notification for the completion of study
-        os.system('vlc  /home/youxin/Music/pomo-iron-man.mp3')
+        os.system('vlc  /path/to/your/song.mp3')
         
         #cleanig the terminal screen
         os.system('clear')
